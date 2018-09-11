@@ -4,7 +4,8 @@ Training a Convolutional Neural Network to recognize The Simpson TV Show charact
 To have more detailed explanations, see the blog articles on Medium [Part 1](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36) and [Part 2](https://medium.com/alex-attia-blog/the-simpsons-characters-recognition-and-detection-part-2-c44f9d5abf37). If you like it, don't hesitate to recommend it (as for the dataset on [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset))
 
 ## データ・セットをKaggleからダウンロードする
-[Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset))
+
+[Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
 
 ### 解凍
 
