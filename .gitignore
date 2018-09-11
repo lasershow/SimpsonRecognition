@@ -1,0 +1,5 @@
+simpsons_dataset/
+faster_rcnn/__pycache__/
+out.csv
+simpsons_dataset/
+config.pickle
