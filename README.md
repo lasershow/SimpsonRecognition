@@ -19,4 +19,12 @@ simpsons_datasetをプロジェクトフォルダ配下に格納する
 ## 学習
 `train_frcnn.py -p annotation.txt`
 
-![Lisa picture](https://github.com/alexattia/SimpsonRecognition/blob/master/pics/mapple_lisa.png)
+### 注意
+
+- GPUで学習
+- データ・セットを少なくして学習(or 少ないEpoch)
+- 学習するシンプソンを減らす（18人→2人）
+
+等に変更することで、学習可
+
+![Lisapicture](https://github.com/alexattia/SimpsonRecognition/blob/master/pics/mapple_lisa.png)
